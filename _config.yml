@@ -7,11 +7,11 @@
 
 # Site settings
 title: Github தமிழா
-email: me@githubtamizha.com
+email: rbrajbharath1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Learning anything that interests me. Want to be specialised in observing the nature.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://githubtamizha.com" # the base hostname & protocol for your site
+url: "http://www.githubtamizha.com" # the base hostname & protocol for your site
 twitter_username: rbrajbharath1
 github_username:  rajbharath
 
