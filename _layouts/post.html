@@ -17,4 +17,26 @@ layout: default
     <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fwww.githubtamizha.com&text=:%20http%3A%2F%2Fwww.githubtamizha.com&via=rbrajbharath1" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img src="{{site.url}}/images/flat_web_icon_set/color/Twitter.png"></a></li>
     <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.githubtamizha.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img src="{{site.url}}/images/flat_web_icon_set/color/Google+.png"></a></li>
 </ul>
+<div id="disqus_thread"></div>
+{% if page.comments %}
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//http-www-githubtamizha-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
 </article>

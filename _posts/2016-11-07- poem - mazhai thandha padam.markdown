@@ -3,6 +3,7 @@ layout: post
 title:  "மழை தந்த பாடம்"
 date:   2016-11-07 21:23:40 +0530
 categories: Poem
+comments: true
 ---
 விண்ணின்ற முத்தம்
 

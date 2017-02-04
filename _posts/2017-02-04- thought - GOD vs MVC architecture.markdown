@@ -3,6 +3,7 @@ layout: post
 title:  "GOD into MVC architecture"
 date:   2017-02-04 11:06:00 +0530
 categories: Thought
+comments: true
 ---
 
 I am just trying to realise the below statement.

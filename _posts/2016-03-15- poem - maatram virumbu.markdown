@@ -3,6 +3,7 @@ layout: post
 title:  "மாற்றம் விரும்பு"
 date:   2016-03-15 18:17:40 +0530
 categories: Poem
+comments: true
 ---
 
 ரசனை கரிசனை

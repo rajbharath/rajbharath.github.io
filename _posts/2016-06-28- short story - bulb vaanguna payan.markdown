@@ -3,6 +3,7 @@ layout: post
 title:  "சிறுகதை - பல்பு வாங்குன பையன்"
 date:   2016-06-28 18:17:40 +0530
 categories: Short Story
+comments: true
 ---
 பல்பு வாங்குன பையன்
 

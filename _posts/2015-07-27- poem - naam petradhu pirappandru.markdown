@@ -3,6 +3,7 @@ layout: post
 title:  "நாம் பெற்றது பிறப்பன்று"
 date:   2015-07-27 18:17:40 +0530
 categories: Poem
+comments: true
 ---
 கூற்றுவன் வந்து விட்டால்
 

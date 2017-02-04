@@ -3,6 +3,7 @@ layout: post
 title:  "ஜெ. ஜெ."
 date:   2016-12-06 10:29:00 +0530
 categories: Poem
+comments: true
 ---
 அகவை அறுபதிலும்
 

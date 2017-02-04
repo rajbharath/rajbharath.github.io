@@ -3,6 +3,7 @@ layout: post
 title:  "விளக்கி, விலக்கி விடாயோ தாழினை"
 date:   2016-11-02 22:23:40 +0530
 categories: Poem
+comments: true
 ---
 சூன்யமான பிறவியின் பொருளை
 
