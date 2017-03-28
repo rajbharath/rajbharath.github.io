@@ -25,7 +25,7 @@ comments: true
 
 அக்கற்பனையின் விந்தையே
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;நம் தமிழின் இருப்பு
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;நம்தமிழின் இருப்பு
 
 
 
@@ -33,4 +33,4 @@ comments: true
 
 எனவே, தமிழொடு கொஞ்சி விளையாடு!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;அதிலே உயிரிணைக் கலந்து உய்த்துவிடு !!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;அதிலே உயிரிணை கலந்து உய்த்துவிடு !!
