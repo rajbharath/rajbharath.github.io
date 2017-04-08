@@ -5,6 +5,8 @@ date:   2017-04-08 15:27:00 +0530
 categories: Poem
 comments: true
 ---
+![Dora The Explorer](/images/2017-04-08/jungle_book.jpg "Bare Necessities")
+
 ஞானம் திளைக்கும் வனத்தினிலே
 
 மீண்டும் கூடி வாழ இந்த ஈன
