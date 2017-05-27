@@ -7,7 +7,7 @@ comments: true
 ---
 
 
-#### Have you heard of Aghori? There is lot to know about [Aghori](https://en.wikipedia.org/wiki/Aghori).
+#### Have you heard of Aghori? There is lot to know about <a href="https://en.wikipedia.org/wiki/Aghori" target="_blank">Aghori</a>.
 
 
 ![Aghori](/images/2017-05-26/aghori.jpg "Aghori")
@@ -25,17 +25,17 @@ To be candid, that did not interest me much since I was not aware of behind the 
 
   - Basic Circuits
 
-    ####Video - Decade Counter
+    #### Video - Decade Counter
 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/pvmQJDZF75I" frameborder="0" allowfullscreen></iframe>
 
-    ####Video - Toy Organ
+    #### Video - Toy Organ
 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/iM7uY6-9I64" frameborder="0" allowfullscreen></iframe>
 
     ![Flip Flop](/images/2017-05-26/Fliop-Flop.jpg "Flip Flop")
   - Tools - Soldering Iron, Multimeter, Hand Drill
-  - I purchased components for my circuits from [electronicscomp.com](www.electronicscomp.com) / [projectpoint.in](www.projectpoint.in)
+  - I purchased components for my circuits from <a href="https://www.electronicscomp.com" target="_blank">electronicscomp.com</a> / <a href="http://projectpoint.in/" target="_blank">projectpoint.in</a>
 
 So I started to buy breadboard, few resistors, transistors, caps, diodes only required for that particular circuit which gives me full control of that circuit and I was HIGH all those moments.
 
@@ -43,8 +43,8 @@ Then I was interested to know how things works inside electronic devices with th
 
 Doing something that I am mad about ( it changes over time ;) ) often transforms me to be an Aghori. Below is one such moment.
 
-##Building a Basic Audio Amplifier Module
-After reading and understanding lot on building an [audio amplifier](https://en.wikipedia.org/wiki/Audio_power_amplifier) and [filters](https://en.wikipedia.org/wiki/Audio_filter) I tried my own circuits to achieve that. But I could not make it work due to lack of knowledge. Then, I chose this particular circuit from [here](https://circuitdigest.com/electronic-circuits/lm386-audio-amplifier-circuit). I am satisfied with this circuit since I could understand the working.
+## Building a Basic Audio Amplifier Module
+After reading and understanding lot on building an <a href="https://en.wikipedia.org/wiki/Audio_power_amplifier" target="_blank">audio amplifier</a> and <a href="https://en.wikipedia.org/wiki/Audio_filter" target="_blank">filters</a> I tried my own circuits to achieve that. But I could not make it work due to lack of knowledge. Then, I chose this particular circuit from <a href="https://circuitdigest.com/electronic-circuits/lm386-audio-amplifier-circuit" target="_blank">here</a>. I am satisfied with this circuit since I could understand the working.
 
 After seeing the magic on breadboard I wanted to transform that as a module in Printed Circuit Board (PCB). I have read lot of articles and watched lot of videos on making a PCB and below is my experience on it.
 
@@ -53,7 +53,7 @@ As a first step, I prepared my own PCB circuit. I used <a href="http://fritzing.
 ![Circuit](/images/2017-05-26/need.svg "Circuit")
 
 
-###Tools / Things I had purchased already:
+### Tools / Things I had purchased already:
 
   - Copper Coated PCB
   - Toner transfer paper (one sided glossy sheet)
@@ -66,7 +66,7 @@ As a first step, I prepared my own PCB circuit. I used <a href="http://fritzing.
 
 I see this process as 3 stages
 
-###TRANSFERRING CIRCUIT TO THE BOARD:
+### TRANSFERRING CIRCUIT TO THE BOARD:
 Initially I faced lot of challenges in transferring the circuit to board. Below are some points to be careful.
 
   - Circuit printing should be taken in laserjet printer. For Inkjet printer, this method will not work.
@@ -74,7 +74,7 @@ Initially I faced lot of challenges in transferring the circuit to board. Below 
   - To start with, Toner transfer paper gives best result instead of using some magazines cover paper which is also one sided glossy paper. (IMHO)
   - Dipping in Hot/warm water gives best result
 
-####Steps:
+#### Steps:
 
   - Cut the copper board to the circuit size.
   - Since copper is susceptible for tarnishing or natural oxidation, scrub the cut piece of board with steel scrubber to remove the copper oxide layer.
@@ -88,9 +88,9 @@ A gif or silent video of this process
 
   `I call this output as 'PCB WITH CIRCUIT' `
 
-###ETCHING PROCESS:
+### ETCHING PROCESS:
 
-####Prepare etching solution:
+#### Prepare etching solution:
   - Take a plastic container and put some Ferric Chloride powder on that.
   - Pour some water in effect we get copper etchant solution
   - It is good to wear hand gloves during this process. I am not sure of its poisonous intensity ;)
@@ -100,7 +100,7 @@ A gif or silent video of this process
 
 Warming the etchant makes this process quicker. You can achieve that by keeping the plastic container inside hot water or If it’s a glass container, it can be warmed up with flames. Be Careful :|
 
-####Result:
+#### Result:
  Below should be the result after etching process is over
 
 ![Etched PCB Board](/images/2017-05-26/printed with scrubber.jpg "Etched PCB Board")
@@ -109,9 +109,9 @@ Remove the toner by scrubbing it with steel scrubber [Image after removed the to
 ![Printed Circuit Ready](/images/2017-05-26/scrubbed board.jpg "Printed Circuit Ready")
 
 
-###FINISHING:
+### FINISHING:
 
-####Steps:
+#### Steps:
   - Drill holes wherever it’s required. I used hand drill for this purpose
 ![Drilled PCB](/images/2017-05-26/drilled board.jpg "Drilled PCB")
 
@@ -120,7 +120,7 @@ Remove the toner by scrubbing it with steel scrubber [Image after removed the to
 ![Final Front PCB](/images/2017-05-26/front.jpg "Final Front PCB")
 ![Final Back PCB](/images/2017-05-26/back.jpg "Final Back PCB")
 
-####Watch the steps in Action
+## Watch the steps in Action
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TqJTJtcLKYE" frameborder="0" allowfullscreen></iframe>
 
 In my next blog, I am planning to fabricate a VUmeter using this module & another module for a bluetooth wireless home out of Atmega. See you there if I & you are still interested :)
