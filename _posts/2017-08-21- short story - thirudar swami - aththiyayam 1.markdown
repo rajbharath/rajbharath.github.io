@@ -29,6 +29,6 @@ comments: true
 
 <hr>
 
-### அத்தியாயம் 2- ற்கு <a href="short/story/2017/08/26/short-story-thirudar-swami-aththiyayam-2.html" target="_blank">இங்கே</a> செல்க
+### அத்தியாயம் 2- ற்கு <a href="/short/story/2017/08/26/short-story-thirudar-swami-aththiyayam-2.html" target="_blank">இங்கே</a> செல்க
 
 <hr>
