@@ -6,6 +6,7 @@ categories: Poem
 comments: true
 ---
 
+<img src="/images/2017-10-24/thani_keezha_nelli.jpg" alt="தனிக் கீழா நெல்லி" width="350px" height="350px" style="float: right"/>
 
 <span style="font-size: 35pt">வ</span>ழியோரச் செடி கண்டேன்
 
