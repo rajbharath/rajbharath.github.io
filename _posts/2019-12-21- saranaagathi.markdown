@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "எண்ணம் - பகுதி 5 - சரணாகதி"
-date: 2018-12-21 23:51:00 +0530
+date: 2019-12-21 23:51:00 +0530
 categories: Thought
 comments: true
 ---
