@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "குறளும் 300(2006) படமும்"
-date: 2022-05-01 10:00:00 +0530
+date: 2022-05-06 10:00:00 +0530
 categories: thought
 comments: true
 ---
