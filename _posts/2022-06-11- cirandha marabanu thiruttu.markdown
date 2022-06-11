@@ -9,9 +9,9 @@ comments: true
 
 <br/><br/>
 
-
+`
 இக்கட்டுரை "க்லாடே ஆல்வாரெஸ்" [(Claude Alvares)](https://en.wikipedia.org/wiki/Claude_Alvares) என்பவரால் எழுதி "இல்லஸ்ட்ரேட்டட் வீக்லி ஆஃப் இந்தியா" [Illustrated Weekly of India](https://en.wikipedia.org/wiki/The_Illustrated_Weekly_of_India) எனும் ஆங்கில வார இதழில் வெளிவந்த "தி க்ரேட் ஜீன் ராப்பரி" [The Great Gene Robbery](https://www.vijayvaani.com/ArticleDisplay.aspx?aid=2137) எனும் ஆங்கிலக்கட்டுரையின் எனது தமிழாக்கம்.
-
+`
 
 
 
