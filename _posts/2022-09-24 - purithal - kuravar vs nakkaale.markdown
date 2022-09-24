@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "குறவர் vs நக்காலே"
-date: 2022-06-11 10:00:00 +0530
+date: 2022-09-24 10:00:00 +0530
 categories: translation
 comments: true
 ---
