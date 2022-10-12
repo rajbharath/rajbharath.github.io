@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ஆதியன் பறையன்"
-date: 2022-11-12 10:00:00 +0530
+date: 2022-10-12 10:00:00 +0530
 categories: poem
 comments: true
 ---
