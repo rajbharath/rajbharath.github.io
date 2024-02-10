@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "தன்னலம்"
-date: 2024-02-10 10:00:00 +0530
+date: 2024-02-10 07:00:00 +0530
 categories: thought
 comments: true
 ---
