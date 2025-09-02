@@ -6,8 +6,6 @@ categories: Short Story
 comments: true
 ---
 
-### தமிழ்க்கனவு 2:
-
 <img src="/images/2025-09-02/tamilkanavu2.jpg" alt="தமிழில் வழிபாடு" width="200px" style=""/>
 
 நிகழிரவில் கண் அயர்ந்தான். கனவுலகில் கண் விழித்தான்.
